@@ -13,7 +13,7 @@
 
 ---
 
-## 📌 Información General
+##  Información General
 
 * **Estudiante:** Nair Ruiz
 * **Docente:** Walter Hugo Arboleda Mazo
@@ -22,13 +22,13 @@
 
 ---
 
-## 🚀 Descripción del Repositorio
+##  Descripción del Repositorio
 
 Este repositorio contiene la solución e implementación orientada a objetos para los 5 ejercicios propuestos en la **Actividad 2** de la asignatura. Cada programa modela clases con sus respectivos atributos, métodos constructores, métodos de cálculo y encapsulamiento.
 
 ---
 
-## 📁 Estructura y Ejercicios
+##  Estructura y Ejercicios
 
 | Ejercicio | Clase Principal / Archivo | Descripción |
 | :--- | :--- | :--- |
