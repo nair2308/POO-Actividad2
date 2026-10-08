@@ -37,12 +37,3 @@ Este repositorio contiene la solución e implementación orientada a objetos par
 | **Ejercicio 2.3** | `automovil.py` | Clase `Automovil` con métodos de aceleración, desaceleración, frenado, cálculo de tiempo de llegada y atributos modelados con `Enum`. |
 | **Ejercicio 2.4** | `figuras_geometricas.py` | Implementación de clases geométricas (`Circulo`, `Rectangulo`, `Cuadrado`, `TrianguloRectangulo`) para el cálculo de áreas, perímetros y clasificación de triángulos. |
 | **Ejercicio 2.5** | `cuenta_bancaria.py` | Modelo de la clase `CuentaBancaria` con gestión de saldos, validación de retiros y consignaciones. |
-
----
-
-## 🛠️ Ejecución del Código
-
-Para ejecutar cualquiera de los ejercicios de forma local desde tu terminal, asegúrate de tener instalado Python 3.x y corre:
-
-```bash
-python ejercicio2_1.py
