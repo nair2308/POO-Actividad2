@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Universidad_Nacional_de_Colombia_logo.svg/512px-Universidad_Nacional_de_Colombia_logo.svg.png" alt="Universidad Nacional de Colombia" width="160"/>
+<img width="120" height="154" alt="Escudo_de_la_Universidad_Nacional_de_Colombia_(2016) svg" src="https://github.com/user-attachments/assets/1664bf84-4d17-4473-8d16-f00864754094" />
+
   
   # Programación Orientada a Objetos
   ## Actividad 2 — Solución en Python
