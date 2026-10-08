@@ -16,10 +16,10 @@
 
 ##  Información General
 
-* **Estudiante:** Nair Ruiz
+* **Estudiante:** Nairalzaurak Ruiz Lopez
 * **Docente:** Walter Hugo Arboleda Mazo
 * **Asignatura:** Programación Orientada a Objetos
-* **Lenguaje de Programación:** Python 3.x
+* **Lenguaje de Programación:** Python 
 
 ---
 
